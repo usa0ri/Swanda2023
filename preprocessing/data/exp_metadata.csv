@@ -1,0 +1,15 @@
+smpl_number,exp_name,sample_name,fastq_files,align_files,barcode,strain,cell_line,RNase,instrument,organism
+1,data20230131_xincheng,mRNA_NT_1,data20230131_xincheng1_bc7_S7_R1_001.fastq.gz,uniq_STAR_align_xincheng1_bc7_S7_0131.bam,CAGATC,mouse,MEF,-,MiniSeq,Mus musculus
+2,data20230131_xincheng,mRNA_-Cys_1,data20230131_xincheng2_bc8_S8_R1_001.fastq.gz,uniq_STAR_align_xincheng2_bc8_S8_0131.bam,ACTTGA,mouse,MEF,-,MiniSeq,Mus musculus
+3,data20230131_xincheng,mRNA_-AA_1,data20230131_xincheng3_bc9_S9_R1_001.fastq.gz,uniq_STAR_align_xincheng3_bc9_S9_0131.bam,GATCAG,mouse,MEF,-,MiniSeq,Mus musculus
+4,data20230217_xincheng,mRNA_NT_2,data20230217_xincheng1_bc7_S7_R1_001.fastq.gz,uniq_STAR_align_xincheng1_bc7_S7_0217.bam,CAGATC,mouse,MEF,-,MiniSeq,Mus musculus
+5,data20230217_xincheng,mRNA_-Cys_2,data20230217_xincheng2_bc8_S8_R1_001.fastq.gz,uniq_STAR_align_xincheng2_bc8_S8_0217.bam,ACTTGA,mouse,MEF,-,MiniSeq,Mus musculus
+6,data20230217_xincheng,mRNA_-AA_2,data20230217_xincheng3_bc9_S9_R1_001.fastq.gz,uniq_STAR_align_xincheng3_bc9_S9_0217.bam,GATCAG,mouse,MEF,-,MiniSeq,Mus musculus
+7,data20230509_xincheng,NT_1,data20230509_xincheng_bc9_S9_R1_001.fastq.gz,uniq_STAR_align_xincheng_bc9_S9_0509.bam,GATCAG,mouse,MEF,-,MiniSeq,Mus musculus
+8,data20230509_xincheng,Cysteamine_1,data20230509_xincheng_bc18_S17_R1_001.fastq.gz,uniq_STAR_align_xincheng_bc18_S17_0509.bam,GTCCGC,mouse,MEF,-,MiniSeq,Mus musculus
+9,data20230509_xincheng,CTNS_KD_1,data20230509_xincheng_bc19_S18_R1_001.fastq.gz,uniq_STAR_align_xincheng_bc19_S18_0509.bam,GTGAAA,mouse,MEF,-,MiniSeq,Mus musculus
+10,data20230509_xincheng,CTNS_KD_RESCUE_1,data20230509_xincheng_bc20_S19_R1_001.fastq.gz,uniq_STAR_align_xincheng_bc20_S19_0509.bam,GTGGCC,mouse,MEF,-,MiniSeq,Mus musculus
+11,data20230516_xincheng,NT_2,data20230516_xincheng_bc6_S6_R1_001.fastq.gz,uniq_STAR_align_xincheng_bc6_S6_0516.bam,GCCAAT,mouse,MEF,-,MiniSeq,Mus musculus
+12,data20230516_xincheng,Cysteamine_2,data20230516_xincheng_bc7_S7_R1_001.fastq.gz,uniq_STAR_align_xincheng_bc7_S7_0516.bam,CAGATC,mouse,MEF,-,MiniSeq,Mus musculus
+13,data20230516_xincheng,CTNS_KD_2,data20230516_xincheng_bc8_S8_R1_001.fastq.gz,uniq_STAR_align_xincheng_bc8_S8_0516.bam,ACTTGA,mouse,MEF,-,MiniSeq,Mus musculus
+14,data20230516_xincheng,CTNS_KD_RESCUE_2,data20230516_xincheng_bc9_S9_R1_001.fastq.gz,uniq_STAR_align_xincheng_bc9_S9_0516.bam,GATCAG,mouse,MEF,-,MiniSeq,Mus musculus
